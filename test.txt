@@ -1,1 +1,5 @@
+ HEAD
 tresc testowa 2
+
+Zmiana na galezi eksperyment
+ eksperyment
